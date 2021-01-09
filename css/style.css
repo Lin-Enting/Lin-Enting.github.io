@@ -1,6 +1,9 @@
 *{
     font-family: 'Nunito', sans-serif;
 }
+html {
+    scroll-behavior: smooth;
+  }
 .bg-light{
     background: #ffffff!important;
 }
